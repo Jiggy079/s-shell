@@ -1,5 +1,5 @@
 # s-shell
-A simple windows shell created I made when I was bored.
+A simple shell I made when I was bored.
 
 Only works on windows currently, I may add linux support soon.
 
